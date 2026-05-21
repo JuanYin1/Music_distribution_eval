@@ -1,4 +1,7 @@
+pretty_midi
+muspy
 numpy
 scipy
 pandas
 matplotlib
+mir_eval
